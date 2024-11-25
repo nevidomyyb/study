@@ -29,7 +29,7 @@ class Queue:
         temp = self.head
         self.head = temp.getNext()
         self.len -= 1
-        return temp
+        return temp        
 
     def getPeek(self) -> Optional[Node]:
         return self.head
