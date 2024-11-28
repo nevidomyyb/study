@@ -11,6 +11,7 @@ Fundamental algorithms for organizing and retrieving data.
 Sorting: Bubble sort, merge sort, quicksort, and their time/space trade-offs.
 Searching: Binary search, linear search, and conditions for using each.
 Divide and Conquer: How algorithms like quicksort and merge sort break problems into subproblems.
+Traveling Salesman Problem
 
 5. Dynamic Programming and Greedy Algorithms
 Techniques for solving optimization problems.
